@@ -1,7 +1,7 @@
 # 👋 Olá!  
 
-💻 **Profissional com experiência nas áreas administrativa, logística e tecnologia**, atualmente focado em **desenvolvimento Back-End**.  
-🚀 Apaixonado por automação de processos e integração de sistemas usando **Python** e **JavaScript**.  
+💻 Profissional com experiência nas áreas administrativa, logística e tecnologia**, atualmente focado em **desenvolvimento Back-End.  
+🚀 Apaixonado por automação de processos e integração de sistemas usando **Python** e **JavaScript.  
 ---
 ###  Tecnologias e Ferramentas:
 -  Python (Flask, Pandas, Openpyxl, Tkinter, Requests)
